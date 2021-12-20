@@ -29,6 +29,7 @@ public class WeatherService {
         JSONObject day = (JSONObject) forecast.get("day");
         JSONObject night = (JSONObject) forecast.get("night");
         String date = forecast.getString("date");
+        date = date.replaceAll("-", ".");
 
         if (Integer.parseInt((String) day.get("tempmax")) >= Integer.parseInt((String) night.get("tempmax"))) {
             tempMax = day.getString("tempmax");

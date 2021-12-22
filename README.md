@@ -1,4 +1,4 @@
-## Weather Forecast back-end
+# Weather Forecast back-end
 
 This is back-end part of my trial internship project: Weather Forecast web app.
 
@@ -12,4 +12,4 @@ It can be accessed from this url after running application from WeatherApplicati
 http://localhost:8080/api/swagger-ui/#/
 
 For user guide read README in front-end of this project:
-https://github.com/arparn/weather_forecast_front-end
+[Weather Forecast Front-end](https://github.com/arparn/weather_forecast_front-end)

@@ -1,6 +1,6 @@
 ## Weather Forecast back-end
 
-This is back-end for my trial internship project: Weather Forecast web app.
+This is back-end part of my trial internship project: Weather Forecast web app.
 
 It is implemented on Java using Spring Boot framework.
 
@@ -11,4 +11,5 @@ Swagger was added to this project for quick controller test.
 It can be accessed from this url after running application from WeatherApplication.java:
 http://localhost:8080/api/swagger-ui/#/
 
-For user guide read README in front-end of this project: https://github.com/arparn/Estonian_English_dictionary_front-end
+For user guide read README in front-end of this project:
+https://github.com/arparn/weather_forecast_front-end
